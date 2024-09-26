@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\beddi\\source\\repos\\tp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\models\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|c:\\users\\beddi\\source\\repos\\tp1\\tp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FE28C8F-CE9E-4DEB-AF32-31B99FE6DA44}|tp1\\tp1.csproj|solutionrelative:tp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "tp1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "tp1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAowGYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:03:03.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "tp1\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Models\\Employee.cs",
+              "RelativeToolTip": "tp1\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:23:55.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:38:52.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\index.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\index.cshtml",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\index.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\index.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:30:49.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "tp1\\Models\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:29:39.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "tp1\\Models\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "tp1\\Models\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:25:35.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:34:38.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:32:35.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:32:02.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "tp1\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "tp1\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:33:08.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Program.cs",
+              "RelativeDocumentMoniker": "tp1\\Program.cs",
+              "ToolTip": "C:\\Users\\beddi\\source\\repos\\tp1\\tp1\\Program.cs",
+              "RelativeToolTip": "tp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:44:41.526Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
