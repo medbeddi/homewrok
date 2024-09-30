@@ -1,0 +1,64 @@
+﻿@model IEnumerable<lab2.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Liste des Produits</h1>
+
+<!-- Bouton pour créer un nouveau produit -->
+<p>
+    <a asp-action="Create" class="btn btn-primary">Créer un produit</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Désignation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Prix)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantite)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Désignation)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Prix)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantite)
+                </td>
+                <td>
+                    <!-- Affichage de l'image -->
+                    @if (!string.IsNullOrEmpty(item.Image))
+                    {
+                        <img src="~/images/@item.Image" alt="Image du produit" style="width: 100px; height: auto;" />
+                    }
+                    else
+                    {
+                        <span>Aucune image disponible</span>
+                    }
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Modifier</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Détails</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,100 @@
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7fa;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    margin-bottom: 60px;
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* Styling for the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Table headers */
+th {
+    background-color: #4CAF50;
+    color: white;
+    text-align: left;
+    padding: 12px;
+    font-size: 16px;
+}
+
+/* Table rows */
+td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Add hover effect to table rows */
+tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Styling for links (used as buttons) */
+a {
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 4px;
+    background-color: #4CAF50;
+    transition: background-color 0.3s ease;
+}
+
+    /* Button hover effect */
+    a:hover {
+        background-color: #45a049;
+    }
+
+/* Specific style for the "Create new" button */
+p a {
+    background-color: #008CBA;
+}
+
+/* Heading styles */
+h1 {
+    color: #4CAF50;
+    margin-bottom: 20px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+    }
+
+    th, td {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+}
